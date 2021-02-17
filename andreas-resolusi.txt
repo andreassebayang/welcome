@@ -1,8 +1,15 @@
-Resolusi di 2021
-  Memperdalam pengetahuan :
-    1. HTML
-    2. CSS
-    3. JavaScript
-    4. Pyhton
+Resolusi di 2021 :
+
+  1. Memperdalam pengetahuan :
+    a. HTML
+    b. CSS
+    c. JavaScript
+    d. Pyhton
     
-   
+  2. Menjadi Front-end Web Dev
+  
+  3. Mulai mengulik Back-end Web Dev
+  
+  4. Memperdalam ilmu Networking Cisco dan Mikrotik
+  
+  5. Memperdalam ilmu tentang Linux
